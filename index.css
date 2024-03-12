@@ -79,3 +79,18 @@
 {
     padding: 100px;
 }
+.container4
+{
+    padding: 200px;
+
+}
+.text-center
+{
+    padding-top:20px;
+    font-style: italic;
+    font-size: xx-large;
+}
+.profile-photo
+{
+    padding-left: 15vw;
+}
